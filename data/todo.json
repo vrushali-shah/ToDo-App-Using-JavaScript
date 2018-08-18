@@ -1,0 +1,5 @@
+[
+{"title":"Routine Chores","author":"Scott","dueDate":"new Date('December 17, 1995 03:24:00')","task":["buy milk","do laundary"],"done":false},
+{"title":"Grocery","author":"Vrushali","dueDate":"new Date()","task":"Buy apple","done":false},
+{"title":"Cooking","author":"Brett","dueDate":"new Date()","task":"Bake cake","done":true}
+ ]
